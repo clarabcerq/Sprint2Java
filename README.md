@@ -4,8 +4,8 @@ Projeto Avant
 
 Integrantes:
 1. Clara Barreto Cerqueira - Java;
-2. Guilherme Magalhães - Compliance;
-3. Ming Nut Tan - Inteligencia Artificial e DevOps;
+2. Guilherme Magalhães - Compliance e DevOps;
+3. Ming Nut Tan - Inteligencia Artificial;
 4. Pedro Batista - Mobile Development;
 5. Rafaela Rodrigues Luz - Banco de Dados e Advanced.
 
